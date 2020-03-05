@@ -1,5 +1,5 @@
 Data/images
 Data/labels
 Data/pavement-cracks-model-resnet101
-Source/RoadDamageDataset
+Source/RoadDamageDataset/*
 Source/._RoadDamageDataset
