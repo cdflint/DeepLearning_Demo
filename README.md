@@ -9,4 +9,4 @@ conda create --name arcgis-fastai python=3.7
 
 conda activate arcgis-fastai
 
-conda install -c esri -c pytorch -c fastai arcgis=1.7.0 fastai=1.0.54 pytorch=1.1.0 torchvision scikit-image
+conda install -c esri -c pytorch -c fastai -c anaconda arcgis=1.7.0 fastai=1.0.54 pytorch=1.1.0 pillow=6.2.1 torchvision scikit-image
